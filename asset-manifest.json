@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlaskaLifeRp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/AlaskaLifeRp/static/js/main.9db8141d.chunk.js",
+    "main.js.map": "/AlaskaLifeRp/static/js/main.9db8141d.chunk.js.map",
+    "runtime-main.js": "/AlaskaLifeRp/static/js/runtime-main.828ad5bd.js",
+    "runtime-main.js.map": "/AlaskaLifeRp/static/js/runtime-main.828ad5bd.js.map",
+    "static/js/2.7bc16bcd.chunk.js": "/AlaskaLifeRp/static/js/2.7bc16bcd.chunk.js",
+    "static/js/2.7bc16bcd.chunk.js.map": "/AlaskaLifeRp/static/js/2.7bc16bcd.chunk.js.map",
+    "static/js/3.2d2a4c12.chunk.js": "/AlaskaLifeRp/static/js/3.2d2a4c12.chunk.js",
+    "static/js/3.2d2a4c12.chunk.js.map": "/AlaskaLifeRp/static/js/3.2d2a4c12.chunk.js.map",
+    "index.html": "/AlaskaLifeRp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/AlaskaLifeRp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7bc16bcd.chunk.js.LICENSE.txt": "/AlaskaLifeRp/static/js/2.7bc16bcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.828ad5bd.js",
+    "static/js/2.7bc16bcd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9db8141d.chunk.js"
+  ]
+}
